@@ -1,0 +1,9 @@
+[awa "khoumauser"]
+	email = awa.khouma6.com\ngit config --global user.email awa.khouma6@gmail/com
+[user]
+	name = Awa360\ngit config --global user.name Awa360
+	email = awa.khouma6@gmail.com
+[use]
+	name = Awa360
+[email]
+	name = awa.khouma6.gmail.com
